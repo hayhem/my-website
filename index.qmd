@@ -1,0 +1,25 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my-headshot.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/hayhem
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hayleyhemme/
+    - icon: envelope
+      text: Email
+      href: "mailto:hayleyhemme@uga.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Check back soon!
+
+I'm Hayley. This website is currently a work in progress.
+
+Please feel free to [contact me](mailto:hayleyhemme@uga.edu) if you have any questions or would like to discuss potential projects.
