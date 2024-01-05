@@ -35,22 +35,21 @@ $danger:    $red !default;
 $light:     $gray-400 !default;
 $dark:      $black !default;
 
-// Fonts
-
-$font-family-sans-serif: "Libre Franklin" !default;
-
-$headings-font-family: "Jost" !default;
-$headings-font-weight: 600 !default;
-
-$navbar-font-family: "Jost" !default;
-$toc-font-family: "Jost" !default;
-$footer-font-family: "Jost" !default;
-
 // Links
 $link-color: $primary !default;
 $link-decoration: none !default;
 $link-hover-color: $red !default;
 $link-hover-decoration: underline !default;
+
+// fonts
+@import url(https://fonts.googleapis.com/css?family=News+Cycle:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+
+// fonts
+$font-family-sans-serif: Lato, sans-serif !default;
+
+// headings
+$presentation-heading-font: "News Cycle", sans-serif !default;
 
 // Footer
 $footer-bg: $gray-900 !default;
