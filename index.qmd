@@ -18,8 +18,23 @@ about:
 ::: {#about-block}
 :::
 
-# Check back soon!
+I'm Hayley Hemme and I'm a first-year PhD student.
 
-I'm Hayley. This website is currently a work in progress.
+## This website is a work in progress. 
+### Please check back soon!
 
-Please feel free to [contact me](mailto:hayleyhemme@uga.edu) if you have any questions or would like to discuss potential projects.
+<!-- Please feel free to [contact me](mailto:hayleyhemme@uga.edu) if you have any questions or would like to discuss potential projects. -->
+
+## Education
+**2023 - present**. *Doctor of Philosophy* in Epidemiology & Biostatistics <br>
+Concentration in Data Analysis & Modeling<br>
+University of Georgia, Athens, GA
+
+**2021-2023**. *Master of Public Health*<br>
+Concentration in Epidemiology<br>
+Graduate Certificate in Infectious Disease Epidemiology<br>
+University of Georgia, Athens, GA
+
+**2014-2017**. *Bachelor of Science* in Biology<br>
+Concentration in Biomedical Sciences<br>
+Brenau University, Gainesville, GA
