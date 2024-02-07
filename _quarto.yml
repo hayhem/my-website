@@ -6,19 +6,21 @@ website:
   description: "PhD Student in Biostatistics & Epidemiology"   # A brief slogan (optional)
   image: img/my-headshot.jpg
   
-  favicon: img/favicon.png
+  # favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    # logo: /img/logo.png
     
     # your sub-pages
     left:
-      - text: "About Me"
-        href: about-me/index.qmd
+      - text: "About"
+        href: about/index.qmd
       - text: "Projects"
         href: projects/index.qmd
+      - text: "Posts"
+        href: posts/index.qmd
     
     # your social media handles
     right:
